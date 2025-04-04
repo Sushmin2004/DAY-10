@@ -1,0 +1,27 @@
+.border-wrapper{
+        margin: auto;
+        height: 50%;
+        max-height: 100%;
+        width: 25rem;
+        max-width: 100%;
+        border: solid 1px black;
+        border-radius: 20px;
+        box-sizing: border-box;
+        padding: 8px;
+        background-color: antiquewhite;
+        background-clip: padding-box;
+        
+}
+
+img {
+    width: -webkit-fill-available;
+    border-radius: 20px;
+}
+
+#caption{
+    text-align: center;
+}
+
+p{
+    padding: 0px 9px 0px 9px;
+}
